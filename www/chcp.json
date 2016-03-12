@@ -5,6 +5,6 @@
   "ios_identifier": "",
   "android_identifier": "com.chanjet.demo.hotcode",
   "update": "now",
-  "content_url": "https://s3.amazonaws.com/hotcodedemo",
-  "release": "2016.03.11-19.56.04"
+  "content_url": "http://henr.github.io/www",
+  "release": "2016.03.12-14.42.43"
 }
