@@ -1,0 +1,10 @@
+{
+  "name": "HotCodePushDemo",
+  "s3bucket": "hotcodedemo",
+  "s3region": "us-east-1",
+  "ios_identifier": "",
+  "android_identifier": "com.chanjet.demo.hotcode",
+  "update": "now",
+  "content_url": "https://s3.amazonaws.com/hotcodedemo",
+  "release": "2016.03.11-19.56.04"
+}
