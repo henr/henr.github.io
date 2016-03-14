@@ -76,16 +76,16 @@
     "hash": "c8f478a91bc51cd5042633fc3508bbcf"
   },
   {
-    "file": "src/images/menu-total@2x.png",
-    "hash": "7be095b19d6e534e23511b09ed29674c"
-  },
-  {
     "file": "src/images/menu-total.png",
     "hash": "9d6a6615f631d9450fabae2008430165"
   },
   {
     "file": "src/images/menu-yingshou.png",
     "hash": "a1c8e7a31186e5c0e21eca8a10c8a3d7"
+  },
+  {
+    "file": "src/images/menu-total@2x.png",
+    "hash": "7be095b19d6e534e23511b09ed29674c"
   },
   {
     "file": "src/images/menu-yingshou@2x.png",
@@ -104,12 +104,12 @@
     "hash": "ee2d3b31a9c31a3b65f570c93e347118"
   },
   {
-    "file": "src/images/zhangbiao-bg@1x.png",
-    "hash": "acb15c313f72baa1dc1ee381db5abb9b"
-  },
-  {
     "file": "src/images/sprite.png",
     "hash": "79e689b209f0e894d74e9d92b1b4d23b"
+  },
+  {
+    "file": "src/images/zhangbiao-bg@1x.png",
+    "hash": "acb15c313f72baa1dc1ee381db5abb9b"
   },
   {
     "file": "src/images/zhangbiao-bg@2x.png",
@@ -117,7 +117,7 @@
   },
   {
     "file": "dist/bundle.js",
-    "hash": "c56e8b0dc2aaa6878e607aba98d1bc77"
+    "hash": "f4902fee136b6d94887ac06c723a037e"
   },
   {
     "file": "dist/flexible.js",
@@ -128,24 +128,24 @@
     "hash": "1a41ebff145b3f99c65893a50903c51e"
   },
   {
-    "file": "dist/css/iconfont/demo.html",
-    "hash": "9ebe54ab6488c75314c727b3ffbbf627"
-  },
-  {
     "file": "dist/css/iconfont/demo.css",
     "hash": "43fc64a4933c89bdf465ded521fc3649"
+  },
+  {
+    "file": "dist/css/iconfont/demo.html",
+    "hash": "9ebe54ab6488c75314c727b3ffbbf627"
   },
   {
     "file": "dist/css/iconfont/iconfont.css",
     "hash": "8e9d683c76ac5acbba3d989918b2214c"
   },
   {
-    "file": "dist/css/iconfont/iconfont.svg",
-    "hash": "46db322b2dadec78d6aabe2cb8742a9b"
-  },
-  {
     "file": "dist/css/iconfont/iconfont.eot",
     "hash": "afed75d7fabefb6cc66782733dada26a"
+  },
+  {
+    "file": "dist/css/iconfont/iconfont.svg",
+    "hash": "46db322b2dadec78d6aabe2cb8742a9b"
   },
   {
     "file": "dist/css/iconfont/iconfont.ttf",
