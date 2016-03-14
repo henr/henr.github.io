@@ -5,6 +5,5 @@
   "ios_identifier": "",
   "android_identifier": "com.chanjet.hotpushdemo",
   "update": "start",
-  "content_url": "http://henr.github.io/www/",
-  "release": "2016.03.14-11.02.39"
+  "content_url": "http://henr.github.io/www/"
 }
