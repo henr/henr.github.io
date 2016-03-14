@@ -5,7 +5,7 @@
   },
   {
     "file": "index.html",
-    "hash": "6349158e2c0e697f4bcabcf91c94c890"
+    "hash": "f3590c4354b1b5bdb60ecb2175aa6ace"
   },
   {
     "file": "src/images/home-bg.png",
@@ -56,12 +56,12 @@
     "hash": "a1ee5a8cb87bddf13cc6c17b6f42047a"
   },
   {
-    "file": "src/images/menu-owe.png",
-    "hash": "0e5986429d073fdd98bae676b319e671"
-  },
-  {
     "file": "src/images/menu-feiyongqushi@2x.png",
     "hash": "a25e0c61c4619fc5da1635ac64a0a137"
+  },
+  {
+    "file": "src/images/menu-owe.png",
+    "hash": "0e5986429d073fdd98bae676b319e671"
   },
   {
     "file": "src/images/menu-owe@2x.png",
@@ -80,12 +80,12 @@
     "hash": "9d6a6615f631d9450fabae2008430165"
   },
   {
-    "file": "src/images/menu-yingshou.png",
-    "hash": "a1c8e7a31186e5c0e21eca8a10c8a3d7"
-  },
-  {
     "file": "src/images/menu-total@2x.png",
     "hash": "7be095b19d6e534e23511b09ed29674c"
+  },
+  {
+    "file": "src/images/menu-yingshou.png",
+    "hash": "a1c8e7a31186e5c0e21eca8a10c8a3d7"
   },
   {
     "file": "src/images/menu-yingshou@2x.png",
