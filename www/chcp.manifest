@@ -9,27 +9,27 @@
   },
   {
     "file": "index.html",
-    "hash": "19c3c64d1934469b5ed46702cee6686b"
+    "hash": "b768cdc5125372fad3e5dac46e760409"
   },
   {
     "file": "images/home-bg.png",
     "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
-    "file": "images/home-bg2.png",
-    "hash": "b6673476bd1b443829186f6642c6b007"
-  },
-  {
     "file": "images/home-bg1.png",
     "hash": "09c51899fb16a62ab6cbfe056c004cb4"
   },
   {
-    "file": "images/menu-cash.png",
-    "hash": "231f8b05b5879679adfe548c9ca42310"
+    "file": "images/home-bg2.png",
+    "hash": "b6673476bd1b443829186f6642c6b007"
   },
   {
     "file": "images/menu-cash@2x.png",
     "hash": "be146fdca621304bef0218722ac0da69"
+  },
+  {
+    "file": "images/menu-cash.png",
+    "hash": "231f8b05b5879679adfe548c9ca42310"
   },
   {
     "file": "images/menu-daily.png",
@@ -132,12 +132,12 @@
     "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
-    "file": "css/index.css",
-    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
-  },
-  {
     "file": "css/main.css",
     "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
+  },
+  {
+    "file": "css/index.css",
+    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
   },
   {
     "file": "css/iconfont/demo.css",
