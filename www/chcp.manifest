@@ -1,7 +1,7 @@
 [
   {
     "file": "bundle.js",
-    "hash": "e882b274d7b6497da69c3e90dc77606b"
+    "hash": "b2fa0ee4bd04637b92ec89a2b099036e"
   },
   {
     "file": "cordova.js",
@@ -10,18 +10,6 @@
   {
     "file": "index.html",
     "hash": "3371f52fb45cf81ede0db15355b857c6"
-  },
-  {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "0ba83df8459288fd1fa1576465163ff5"
-  },
-  {
-    "file": "lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
     "file": "images/home-bg.png",
@@ -68,12 +56,12 @@
     "hash": "d16e7acce6e18e2b69ed261852340ab2"
   },
   {
-    "file": "images/menu-feiyongqushi@2x.png",
-    "hash": "a25e0c61c4619fc5da1635ac64a0a137"
-  },
-  {
     "file": "images/menu-feiyongqushi.png",
     "hash": "a1ee5a8cb87bddf13cc6c17b6f42047a"
+  },
+  {
+    "file": "images/menu-feiyongqushi@2x.png",
+    "hash": "a25e0c61c4619fc5da1635ac64a0a137"
   },
   {
     "file": "images/menu-owe.png",
@@ -96,20 +84,16 @@
     "hash": "9d6a6615f631d9450fabae2008430165"
   },
   {
-    "file": "images/menu-total@2x.png",
-    "hash": "7be095b19d6e534e23511b09ed29674c"
-  },
-  {
     "file": "images/menu-yingshou.png",
     "hash": "a1c8e7a31186e5c0e21eca8a10c8a3d7"
   },
   {
-    "file": "images/menu-yingshou@2x.png",
-    "hash": "8f2d0c8ee9b479ac340bc8736d0f53a6"
+    "file": "images/menu-total@2x.png",
+    "hash": "7be095b19d6e534e23511b09ed29674c"
   },
   {
-    "file": "images/menu-yuer@2x.png",
-    "hash": "1ab4cd7a4c3e203ea44e041552699ccc"
+    "file": "images/menu-yingshou@2x.png",
+    "hash": "8f2d0c8ee9b479ac340bc8736d0f53a6"
   },
   {
     "file": "images/menu-yuer.png",
@@ -118,6 +102,10 @@
   {
     "file": "images/sprite.@2x.retina.png",
     "hash": "ee2d3b31a9c31a3b65f570c93e347118"
+  },
+  {
+    "file": "images/menu-yuer@2x.png",
+    "hash": "1ab4cd7a4c3e203ea44e041552699ccc"
   },
   {
     "file": "images/sprite.png",
@@ -130,6 +118,18 @@
   {
     "file": "images/zhangbiao-bg@2x.png",
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "0ba83df8459288fd1fa1576465163ff5"
+  },
+  {
+    "file": "lib/flexible.js",
+    "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
     "file": "css/index.css",
@@ -176,12 +176,12 @@
     "hash": "6e1fac8e69e82cb27178bb5a01f1d36c"
   },
   {
-    "file": "cordova-js-src/android/promptbasednativeapi.js",
-    "hash": "f4b029f0e91729c970ff421b8f9bd22e"
-  },
-  {
     "file": "cordova-js-src/android/nativeapiprovider.js",
     "hash": "035f17302807fd50b779d529b2fe70e6"
+  },
+  {
+    "file": "cordova-js-src/android/promptbasednativeapi.js",
+    "hash": "f4b029f0e91729c970ff421b8f9bd22e"
   },
   {
     "file": "cordova-js-src/plugin/android/app.js",
@@ -192,11 +192,11 @@
     "hash": "7cf3ea81b3fb3eb1b057de61e2c39f78"
   },
   {
-    "file": "plugins/cordova-hot-code-push-plugin/www/chcp.js",
-    "hash": "e6df25381632052165d3e9f73640a2f8"
-  },
-  {
     "file": "plugins/cordova-hot-code-push-local-dev-addon/www/chcpLocalDev.js",
     "hash": "e13bcf497fdd0be49aee1bc401c7b635"
+  },
+  {
+    "file": "plugins/cordova-hot-code-push-plugin/www/chcp.js",
+    "hash": "e6df25381632052165d3e9f73640a2f8"
   }
 ]
