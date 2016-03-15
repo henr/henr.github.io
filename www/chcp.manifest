@@ -13,11 +13,15 @@
   },
   {
     "file": "index.html",
-    "hash": "702177ef415287c71b96b83f8da13fea"
+    "hash": "d39bb7c2198c89ea3e37c18d29cc2d51"
   },
   {
     "file": "index2.html",
     "hash": "17f38c38a412f7888a761da364d7352f"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
   },
   {
     "file": "images/home-bg.png",
@@ -128,16 +132,12 @@
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+    "file": "js/index.js",
+    "hash": "0ba83df8459288fd1fa1576465163ff5"
   },
   {
     "file": "lib/flexible.js",
     "hash": "a38147641b5320bdf919e4c0b16ec25d"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "0ba83df8459288fd1fa1576465163ff5"
   },
   {
     "file": "css/index.css",
