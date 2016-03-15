@@ -9,27 +9,19 @@
   },
   {
     "file": "index.html",
-    "hash": "3371f52fb45cf81ede0db15355b857c6"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "0ba83df8459288fd1fa1576465163ff5"
-  },
-  {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+    "hash": "19c3c64d1934469b5ed46702cee6686b"
   },
   {
     "file": "images/home-bg.png",
     "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
-    "file": "images/home-bg1.png",
-    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
-  },
-  {
     "file": "images/home-bg2.png",
     "hash": "b6673476bd1b443829186f6642c6b007"
+  },
+  {
+    "file": "images/home-bg1.png",
+    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
   },
   {
     "file": "images/menu-cash.png",
@@ -96,6 +88,10 @@
     "hash": "7be095b19d6e534e23511b09ed29674c"
   },
   {
+    "file": "images/menu-yingshou.png",
+    "hash": "a1c8e7a31186e5c0e21eca8a10c8a3d7"
+  },
+  {
     "file": "images/menu-yingshou@2x.png",
     "hash": "8f2d0c8ee9b479ac340bc8736d0f53a6"
   },
@@ -104,20 +100,16 @@
     "hash": "f1c5343415c99aa534f909ffdc098e73"
   },
   {
-    "file": "images/menu-yingshou.png",
-    "hash": "a1c8e7a31186e5c0e21eca8a10c8a3d7"
-  },
-  {
     "file": "images/menu-yuer@2x.png",
     "hash": "1ab4cd7a4c3e203ea44e041552699ccc"
   },
   {
-    "file": "images/sprite.png",
-    "hash": "79e689b209f0e894d74e9d92b1b4d23b"
-  },
-  {
     "file": "images/sprite.@2x.retina.png",
     "hash": "ee2d3b31a9c31a3b65f570c93e347118"
+  },
+  {
+    "file": "images/sprite.png",
+    "hash": "79e689b209f0e894d74e9d92b1b4d23b"
   },
   {
     "file": "images/zhangbiao-bg@1x.png",
@@ -128,16 +120,24 @@
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "0ba83df8459288fd1fa1576465163ff5"
+  },
+  {
     "file": "lib/flexible.js",
     "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
-    "file": "css/main.css",
-    "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
-  },
-  {
     "file": "css/index.css",
     "hash": "e46d9a1c456a9c913ca10f3c16d50000"
+  },
+  {
+    "file": "css/main.css",
+    "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
   },
   {
     "file": "css/iconfont/demo.css",
@@ -148,12 +148,12 @@
     "hash": "9ebe54ab6488c75314c727b3ffbbf627"
   },
   {
-    "file": "css/iconfont/iconfont.eot",
-    "hash": "afed75d7fabefb6cc66782733dada26a"
-  },
-  {
     "file": "css/iconfont/iconfont.css",
     "hash": "8e9d683c76ac5acbba3d989918b2214c"
+  },
+  {
+    "file": "css/iconfont/iconfont.eot",
+    "hash": "afed75d7fabefb6cc66782733dada26a"
   },
   {
     "file": "css/iconfont/iconfont.svg",
@@ -176,12 +176,12 @@
     "hash": "6e1fac8e69e82cb27178bb5a01f1d36c"
   },
   {
-    "file": "cordova-js-src/android/promptbasednativeapi.js",
-    "hash": "f4b029f0e91729c970ff421b8f9bd22e"
-  },
-  {
     "file": "cordova-js-src/android/nativeapiprovider.js",
     "hash": "035f17302807fd50b779d529b2fe70e6"
+  },
+  {
+    "file": "cordova-js-src/android/promptbasednativeapi.js",
+    "hash": "f4b029f0e91729c970ff421b8f9bd22e"
   },
   {
     "file": "cordova-js-src/plugin/android/app.js",
