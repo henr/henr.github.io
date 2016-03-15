@@ -40,12 +40,12 @@
     "hash": "744899c2e55bc275b9a76c5df96adbbd"
   },
   {
-    "file": "images/menu-detail.png",
-    "hash": "dc5067dc7fad7076cb44bb003668b6af"
-  },
-  {
     "file": "images/menu-detail@2x.png",
     "hash": "ef04b3ed082308f2d101cb5071640f2f"
+  },
+  {
+    "file": "images/menu-detail.png",
+    "hash": "dc5067dc7fad7076cb44bb003668b6af"
   },
   {
     "file": "images/menu-feiyong.png",
@@ -84,12 +84,12 @@
     "hash": "9d6a6615f631d9450fabae2008430165"
   },
   {
-    "file": "images/menu-yingshou.png",
-    "hash": "a1c8e7a31186e5c0e21eca8a10c8a3d7"
-  },
-  {
     "file": "images/menu-total@2x.png",
     "hash": "7be095b19d6e534e23511b09ed29674c"
+  },
+  {
+    "file": "images/menu-yingshou.png",
+    "hash": "a1c8e7a31186e5c0e21eca8a10c8a3d7"
   },
   {
     "file": "images/menu-yingshou@2x.png",
@@ -100,12 +100,12 @@
     "hash": "f1c5343415c99aa534f909ffdc098e73"
   },
   {
-    "file": "images/sprite.@2x.retina.png",
-    "hash": "ee2d3b31a9c31a3b65f570c93e347118"
-  },
-  {
     "file": "images/menu-yuer@2x.png",
     "hash": "1ab4cd7a4c3e203ea44e041552699ccc"
+  },
+  {
+    "file": "images/sprite.@2x.retina.png",
+    "hash": "ee2d3b31a9c31a3b65f570c93e347118"
   },
   {
     "file": "images/sprite.png",

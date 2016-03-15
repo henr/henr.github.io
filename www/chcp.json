@@ -1,10 +1,10 @@
 {
-  "name": "hotpushdemo",
-  "s3bucket": "hotpushdemo",
+  "name": "accounting",
+  "s3bucket": "accounting",
   "s3region": "us-east-1",
   "ios_identifier": "",
-  "android_identifier": "com.chanjet.hotpushdemo",
-  "update": "start",
+  "android_identifier": "com.chanjet.accounting",
+  "update": "now",
   "content_url": "http://henr.github.io/www/",
-  "release": "2016.03.15-18.12.23"
+  "release": "2016.03.15-18.17.19"
 }
