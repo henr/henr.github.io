@@ -13,7 +13,7 @@
   },
   {
     "file": "index.html",
-    "hash": "26d66df66dc0664a71041e52b57eea3a"
+    "hash": "8e0eecffaa69d923b3b16b0fd6948ffd"
   },
   {
     "file": "images/home-bg.png",
@@ -32,16 +32,16 @@
     "hash": "231f8b05b5879679adfe548c9ca42310"
   },
   {
+    "file": "images/menu-daily.png",
+    "hash": "23e851a3b3e60c60e5b651d1b72a924a"
+  },
+  {
     "file": "images/menu-cash@2x.png",
     "hash": "be146fdca621304bef0218722ac0da69"
   },
   {
     "file": "images/menu-daily@2x.png",
     "hash": "744899c2e55bc275b9a76c5df96adbbd"
-  },
-  {
-    "file": "images/menu-daily.png",
-    "hash": "23e851a3b3e60c60e5b651d1b72a924a"
   },
   {
     "file": "images/menu-detail.png",
@@ -144,12 +144,12 @@
     "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
   },
   {
-    "file": "css/iconfont/demo.css",
-    "hash": "43fc64a4933c89bdf465ded521fc3649"
-  },
-  {
     "file": "css/iconfont/demo.html",
     "hash": "9ebe54ab6488c75314c727b3ffbbf627"
+  },
+  {
+    "file": "css/iconfont/demo.css",
+    "hash": "43fc64a4933c89bdf465ded521fc3649"
   },
   {
     "file": "css/iconfont/iconfont.css",
