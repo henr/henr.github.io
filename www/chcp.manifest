@@ -1,7 +1,7 @@
 [
   {
     "file": "bundle.js",
-    "hash": "b2fa0ee4bd04637b92ec89a2b099036e"
+    "hash": "2d7f3a854c2171e87a99b2f6c6b07c79"
   },
   {
     "file": "cordova.js",
@@ -16,16 +16,16 @@
     "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
-    "file": "images/home-bg1.png",
-    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
-  },
-  {
     "file": "images/home-bg2.png",
     "hash": "b6673476bd1b443829186f6642c6b007"
   },
   {
     "file": "images/menu-cash.png",
     "hash": "231f8b05b5879679adfe548c9ca42310"
+  },
+  {
+    "file": "images/home-bg1.png",
+    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
   },
   {
     "file": "images/menu-cash@2x.png",
@@ -40,24 +40,24 @@
     "hash": "744899c2e55bc275b9a76c5df96adbbd"
   },
   {
-    "file": "images/menu-detail@2x.png",
-    "hash": "ef04b3ed082308f2d101cb5071640f2f"
-  },
-  {
     "file": "images/menu-detail.png",
     "hash": "dc5067dc7fad7076cb44bb003668b6af"
+  },
+  {
+    "file": "images/menu-detail@2x.png",
+    "hash": "ef04b3ed082308f2d101cb5071640f2f"
   },
   {
     "file": "images/menu-feiyong.png",
     "hash": "e5b73a83cf30cdda3ed72e366733c71e"
   },
   {
-    "file": "images/menu-feiyong@2x.png",
-    "hash": "d16e7acce6e18e2b69ed261852340ab2"
-  },
-  {
     "file": "images/menu-feiyongqushi.png",
     "hash": "a1ee5a8cb87bddf13cc6c17b6f42047a"
+  },
+  {
+    "file": "images/menu-feiyong@2x.png",
+    "hash": "d16e7acce6e18e2b69ed261852340ab2"
   },
   {
     "file": "images/menu-feiyongqushi@2x.png",
