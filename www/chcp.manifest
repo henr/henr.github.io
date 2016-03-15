@@ -1,154 +1,26 @@
 [
   {
-    "file": "dist/bundle.js",
-    "hash": "6311ed14597a3ec117ccf8527d99b1b6"
+    "file": "chcp.js",
+    "hash": "4b257abf06db8227726b84b9719a9952"
   },
   {
-    "file": "dist/index.html",
-    "hash": "8c251a83eca1765328a7b3d2e25136ae"
+    "file": "cordova.js",
+    "hash": "0f0c3e6696e587f59a4a5b0d2d85c1a3"
   },
   {
-    "file": "dist/images/home-bg.png",
-    "hash": "1cb539e977f60ba61583c81d22f99cf5"
+    "file": "index.html",
+    "hash": "a0005eba65c4e4864cca2de914dcb730"
   },
   {
-    "file": "dist/images/home-bg1.png",
-    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
+    "file": "css/index.css",
+    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
   },
   {
-    "file": "dist/images/home-bg2.png",
-    "hash": "b6673476bd1b443829186f6642c6b007"
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
   },
   {
-    "file": "dist/images/menu-cash.png",
-    "hash": "231f8b05b5879679adfe548c9ca42310"
-  },
-  {
-    "file": "dist/images/menu-cash@2x.png",
-    "hash": "be146fdca621304bef0218722ac0da69"
-  },
-  {
-    "file": "dist/images/menu-daily.png",
-    "hash": "23e851a3b3e60c60e5b651d1b72a924a"
-  },
-  {
-    "file": "dist/images/menu-detail.png",
-    "hash": "dc5067dc7fad7076cb44bb003668b6af"
-  },
-  {
-    "file": "dist/images/menu-daily@2x.png",
-    "hash": "744899c2e55bc275b9a76c5df96adbbd"
-  },
-  {
-    "file": "dist/images/menu-detail@2x.png",
-    "hash": "ef04b3ed082308f2d101cb5071640f2f"
-  },
-  {
-    "file": "dist/images/menu-feiyong.png",
-    "hash": "e5b73a83cf30cdda3ed72e366733c71e"
-  },
-  {
-    "file": "dist/images/menu-feiyong@2x.png",
-    "hash": "d16e7acce6e18e2b69ed261852340ab2"
-  },
-  {
-    "file": "dist/images/menu-feiyongqushi.png",
-    "hash": "a1ee5a8cb87bddf13cc6c17b6f42047a"
-  },
-  {
-    "file": "dist/images/menu-feiyongqushi@2x.png",
-    "hash": "a25e0c61c4619fc5da1635ac64a0a137"
-  },
-  {
-    "file": "dist/images/menu-owe.png",
-    "hash": "0e5986429d073fdd98bae676b319e671"
-  },
-  {
-    "file": "dist/images/menu-owe@2x.png",
-    "hash": "56cd3a62f42cccc51f95055fb87d54a4"
-  },
-  {
-    "file": "dist/images/menu-shouzhi.png",
-    "hash": "73d681abe0291c294e28a4cd30e5519e"
-  },
-  {
-    "file": "dist/images/menu-shouzhi@2x.png",
-    "hash": "c8f478a91bc51cd5042633fc3508bbcf"
-  },
-  {
-    "file": "dist/images/menu-total.png",
-    "hash": "9d6a6615f631d9450fabae2008430165"
-  },
-  {
-    "file": "dist/images/menu-total@2x.png",
-    "hash": "7be095b19d6e534e23511b09ed29674c"
-  },
-  {
-    "file": "dist/images/menu-yingshou.png",
-    "hash": "a1c8e7a31186e5c0e21eca8a10c8a3d7"
-  },
-  {
-    "file": "dist/images/menu-yingshou@2x.png",
-    "hash": "8f2d0c8ee9b479ac340bc8736d0f53a6"
-  },
-  {
-    "file": "dist/images/menu-yuer.png",
-    "hash": "f1c5343415c99aa534f909ffdc098e73"
-  },
-  {
-    "file": "dist/images/menu-yuer@2x.png",
-    "hash": "1ab4cd7a4c3e203ea44e041552699ccc"
-  },
-  {
-    "file": "dist/images/sprite.@2x.retina.png",
-    "hash": "ee2d3b31a9c31a3b65f570c93e347118"
-  },
-  {
-    "file": "dist/images/sprite.png",
-    "hash": "79e689b209f0e894d74e9d92b1b4d23b"
-  },
-  {
-    "file": "dist/images/zhangbiao-bg@1x.png",
-    "hash": "acb15c313f72baa1dc1ee381db5abb9b"
-  },
-  {
-    "file": "dist/images/zhangbiao-bg@2x.png",
-    "hash": "874b179e89c8a44f2c060645b18bd0b1"
-  },
-  {
-    "file": "dist/lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
-  },
-  {
-    "file": "dist/css/main.css",
-    "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
-  },
-  {
-    "file": "dist/css/iconfont/demo.css",
-    "hash": "43fc64a4933c89bdf465ded521fc3649"
-  },
-  {
-    "file": "dist/css/iconfont/demo.html",
-    "hash": "9ebe54ab6488c75314c727b3ffbbf627"
-  },
-  {
-    "file": "dist/css/iconfont/iconfont.css",
-    "hash": "8e9d683c76ac5acbba3d989918b2214c"
-  },
-  {
-    "file": "dist/css/iconfont/iconfont.eot",
-    "hash": "afed75d7fabefb6cc66782733dada26a"
-  },
-  {
-    "file": "dist/css/iconfont/iconfont.svg",
-    "hash": "46db322b2dadec78d6aabe2cb8742a9b"
-  },
-  {
-    "file": "dist/css/iconfont/iconfont.ttf",
-    "hash": "e8a7c4775982fe20a95d2e72463494e0"
-  },
-  {
-    "file": "dist/css/iconfont/iconfont.woff",
-    "hash": "4686d224fad4c9b0c1be33ca75c80283"
+    "file": "js/index.js",
+    "hash": "0ba83df8459288fd1fa1576465163ff5"
   }
 ]
