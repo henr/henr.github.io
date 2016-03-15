@@ -16,20 +16,16 @@
     "hash": "b768cdc5125372fad3e5dac46e760409"
   },
   {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
-  },
-  {
-    "file": "images/home-bg1.png",
-    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
-  },
-  {
     "file": "images/home-bg.png",
     "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
     "file": "images/home-bg2.png",
     "hash": "b6673476bd1b443829186f6642c6b007"
+  },
+  {
+    "file": "images/home-bg1.png",
+    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
   },
   {
     "file": "images/menu-cash.png",
@@ -126,6 +122,10 @@
   {
     "file": "images/zhangbiao-bg@2x.png",
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
   },
   {
     "file": "js/index.js",
