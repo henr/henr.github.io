@@ -13,11 +13,23 @@
   },
   {
     "file": "index.html",
-    "hash": "22987a1fd6f837838da2c6d3dc767022"
+    "hash": "9dde5bcda59479e68a862744203df72c"
   },
   {
     "file": "index2.html",
     "hash": "17f38c38a412f7888a761da364d7352f"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "7a94d417dc8dd8c962bc6ff5c67ebeb4"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "lib/flexible.js",
+    "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
     "file": "images/home-bg.png",
@@ -68,12 +80,12 @@
     "hash": "a1ee5a8cb87bddf13cc6c17b6f42047a"
   },
   {
-    "file": "images/menu-feiyongqushi@2x.png",
-    "hash": "a25e0c61c4619fc5da1635ac64a0a137"
-  },
-  {
     "file": "images/menu-owe.png",
     "hash": "0e5986429d073fdd98bae676b319e671"
+  },
+  {
+    "file": "images/menu-feiyongqushi@2x.png",
+    "hash": "a25e0c61c4619fc5da1635ac64a0a137"
   },
   {
     "file": "images/menu-owe@2x.png",
@@ -128,18 +140,6 @@
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "7a94d417dc8dd8c962bc6ff5c67ebeb4"
-  },
-  {
-    "file": "lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
-  },
-  {
     "file": "css/index.css",
     "hash": "e46d9a1c456a9c913ca10f3c16d50000"
   },
@@ -148,12 +148,12 @@
     "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
   },
   {
-    "file": "css/iconfont/demo.html",
-    "hash": "9ebe54ab6488c75314c727b3ffbbf627"
-  },
-  {
     "file": "css/iconfont/demo.css",
     "hash": "43fc64a4933c89bdf465ded521fc3649"
+  },
+  {
+    "file": "css/iconfont/demo.html",
+    "hash": "9ebe54ab6488c75314c727b3ffbbf627"
   },
   {
     "file": "css/iconfont/iconfont.css",
