@@ -1,11 +1,11 @@
 [
   {
-    "file": "chcp.js",
-    "hash": "4b257abf06db8227726b84b9719a9952"
-  },
-  {
     "file": "bundle.js",
     "hash": "901dd446fe4fb6ab3e23d4db29a1c5d4"
+  },
+  {
+    "file": "chcp.js",
+    "hash": "4b257abf06db8227726b84b9719a9952"
   },
   {
     "file": "cordova.js",
@@ -24,12 +24,12 @@
     "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
-    "file": "images/home-bg2.png",
-    "hash": "b6673476bd1b443829186f6642c6b007"
-  },
-  {
     "file": "images/home-bg1.png",
     "hash": "09c51899fb16a62ab6cbfe056c004cb4"
+  },
+  {
+    "file": "images/home-bg2.png",
+    "hash": "b6673476bd1b443829186f6642c6b007"
   },
   {
     "file": "images/menu-cash.png",
@@ -52,12 +52,12 @@
     "hash": "dc5067dc7fad7076cb44bb003668b6af"
   },
   {
-    "file": "images/menu-feiyong.png",
-    "hash": "e5b73a83cf30cdda3ed72e366733c71e"
-  },
-  {
     "file": "images/menu-detail@2x.png",
     "hash": "ef04b3ed082308f2d101cb5071640f2f"
+  },
+  {
+    "file": "images/menu-feiyong.png",
+    "hash": "e5b73a83cf30cdda3ed72e366733c71e"
   },
   {
     "file": "images/menu-feiyong@2x.png",
@@ -76,12 +76,12 @@
     "hash": "0e5986429d073fdd98bae676b319e671"
   },
   {
-    "file": "images/menu-owe@2x.png",
-    "hash": "56cd3a62f42cccc51f95055fb87d54a4"
-  },
-  {
     "file": "images/menu-shouzhi.png",
     "hash": "73d681abe0291c294e28a4cd30e5519e"
+  },
+  {
+    "file": "images/menu-owe@2x.png",
+    "hash": "56cd3a62f42cccc51f95055fb87d54a4"
   },
   {
     "file": "images/menu-shouzhi@2x.png",
@@ -133,7 +133,7 @@
   },
   {
     "file": "js/index.js",
-    "hash": "84cb71abcc062428fcd41e3c35c52b30"
+    "hash": "db63975403b04778a0cdfc3a5de63159"
   },
   {
     "file": "lib/flexible.js",

@@ -63,7 +63,7 @@ var app = {
         }
     },
     checkForUpdate: function() {
-        chcp.checkUpdate(this.fetchUpdateCallback);
+        chcp.fetchUpdate(this.fetchUpdateCallback);
     },
     fetchUpdateCallback: function(error, data) {
         if (error) {
