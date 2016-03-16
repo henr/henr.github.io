@@ -1,11 +1,11 @@
 [
   {
-    "file": "bundle.js",
-    "hash": "6b3483645318a79634ab9290ba4dde2c"
-  },
-  {
     "file": "chcp.js",
     "hash": "4b257abf06db8227726b84b9719a9952"
+  },
+  {
+    "file": "bundle.js",
+    "hash": "901dd446fe4fb6ab3e23d4db29a1c5d4"
   },
   {
     "file": "cordova.js",
@@ -13,11 +13,23 @@
   },
   {
     "file": "index.html",
-    "hash": "7be970506908be816a887a45ab87f253"
+    "hash": "98f5840885b38d6f080e35ee757db0bf"
   },
   {
     "file": "index2.html",
     "hash": "17f38c38a412f7888a761da364d7352f"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "207958d8f67bae9558d7653fa4648041"
+  },
+  {
+    "file": "lib/flexible.js",
+    "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
     "file": "images/home-bg.png",
@@ -128,24 +140,12 @@
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "207958d8f67bae9558d7653fa4648041"
-  },
-  {
-    "file": "lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
+    "file": "css/main.css",
+    "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
   },
   {
     "file": "css/index.css",
     "hash": "e46d9a1c456a9c913ca10f3c16d50000"
-  },
-  {
-    "file": "css/main.css",
-    "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
   },
   {
     "file": "css/iconfont/demo.css",
