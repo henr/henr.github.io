@@ -1,11 +1,11 @@
 [
   {
-    "file": "chcp.js",
-    "hash": "4b257abf06db8227726b84b9719a9952"
-  },
-  {
     "file": "bundle.js",
     "hash": "6b3483645318a79634ab9290ba4dde2c"
+  },
+  {
+    "file": "chcp.js",
+    "hash": "4b257abf06db8227726b84b9719a9952"
   },
   {
     "file": "cordova.js",
@@ -13,19 +13,31 @@
   },
   {
     "file": "index.html",
-    "hash": "6531a4b9fb55269bf324c36b6e1fed05"
+    "hash": "82461af533d5aeff69fb346d5e4b7de7"
   },
   {
     "file": "index2.html",
     "hash": "17f38c38a412f7888a761da364d7352f"
   },
   {
-    "file": "images/home-bg.png",
-    "hash": "1cb539e977f60ba61583c81d22f99cf5"
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "0ba83df8459288fd1fa1576465163ff5"
+  },
+  {
+    "file": "lib/flexible.js",
+    "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
     "file": "images/home-bg1.png",
     "hash": "09c51899fb16a62ab6cbfe056c004cb4"
+  },
+  {
+    "file": "images/home-bg.png",
+    "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
     "file": "images/home-bg2.png",
@@ -52,16 +64,12 @@
     "hash": "dc5067dc7fad7076cb44bb003668b6af"
   },
   {
-    "file": "images/menu-detail@2x.png",
-    "hash": "ef04b3ed082308f2d101cb5071640f2f"
-  },
-  {
     "file": "images/menu-feiyong.png",
     "hash": "e5b73a83cf30cdda3ed72e366733c71e"
   },
   {
-    "file": "images/menu-feiyong@2x.png",
-    "hash": "d16e7acce6e18e2b69ed261852340ab2"
+    "file": "images/menu-detail@2x.png",
+    "hash": "ef04b3ed082308f2d101cb5071640f2f"
   },
   {
     "file": "images/menu-feiyongqushi.png",
@@ -116,10 +124,6 @@
     "hash": "ee2d3b31a9c31a3b65f570c93e347118"
   },
   {
-    "file": "images/sprite.png",
-    "hash": "79e689b209f0e894d74e9d92b1b4d23b"
-  },
-  {
     "file": "images/zhangbiao-bg@1x.png",
     "hash": "acb15c313f72baa1dc1ee381db5abb9b"
   },
@@ -128,16 +132,12 @@
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+    "file": "images/sprite.png",
+    "hash": "79e689b209f0e894d74e9d92b1b4d23b"
   },
   {
-    "file": "js/index.js",
-    "hash": "0ba83df8459288fd1fa1576465163ff5"
-  },
-  {
-    "file": "lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
+    "file": "images/menu-feiyong@2x.png",
+    "hash": "d16e7acce6e18e2b69ed261852340ab2"
   },
   {
     "file": "css/main.css",
@@ -160,12 +160,12 @@
     "hash": "8e9d683c76ac5acbba3d989918b2214c"
   },
   {
-    "file": "css/iconfont/iconfont.svg",
-    "hash": "46db322b2dadec78d6aabe2cb8742a9b"
-  },
-  {
     "file": "css/iconfont/iconfont.eot",
     "hash": "afed75d7fabefb6cc66782733dada26a"
+  },
+  {
+    "file": "css/iconfont/iconfont.svg",
+    "hash": "46db322b2dadec78d6aabe2cb8742a9b"
   },
   {
     "file": "css/iconfont/iconfont.ttf",
