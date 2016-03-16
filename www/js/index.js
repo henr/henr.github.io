@@ -34,6 +34,7 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         app.receivedEvent('deviceready');
+        app.configurePlugin();
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
@@ -45,6 +46,41 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+    },
+    configurePlugin: function() {
+        var options = {
+            'config-file':'http://henr.github.io/www/chcp.json'
+        };
+        chcp.configure(options, configureCallback);
+    },
+    configureCallback: function(error) {
+        if (error) {
+            console.log('Error during the configuration process');
+            console.log(error.description);
+        } else {
+            console.log('Plugin configured successfully');
+            app.checkForUpdate();
+        }
+    },
+    checkForUpdate: function() {
+        chcp.checkUpdate(this.fetchUpdateCallback);
+    },
+    fetchUpdateCallback: function(error, data) {
+        if (error) {
+            console.log('Fialed to load the update with error code:' + error.code);
+            console.log(error.description);
+            return;
+        }
+        console.log('Update is loaded, running the installation');
+        chcp.installUpdate(this.installationCallback);
+    },
+    installationCallback: function(error) {
+        if (error) {
+            console.log('Failed to install the update with error code:' + error.code);
+            console.log(error.description);
+        } else {
+            console.log('Update installed!');
+        }
     }
 };
 
