@@ -1,11 +1,11 @@
 [
   {
-    "file": "bundle.js",
-    "hash": "6b3483645318a79634ab9290ba4dde2c"
-  },
-  {
     "file": "chcp.js",
     "hash": "4b257abf06db8227726b84b9719a9952"
+  },
+  {
+    "file": "bundle.js",
+    "hash": "6b3483645318a79634ab9290ba4dde2c"
   },
   {
     "file": "cordova.js",
@@ -13,23 +13,15 @@
   },
   {
     "file": "index.html",
-    "hash": "fc4fd9cb85672a0894e14feece6819ae"
+    "hash": "6531a4b9fb55269bf324c36b6e1fed05"
   },
   {
     "file": "index2.html",
     "hash": "17f38c38a412f7888a761da364d7352f"
   },
   {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "0ba83df8459288fd1fa1576465163ff5"
-  },
-  {
-    "file": "lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
+    "file": "images/home-bg.png",
+    "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
     "file": "images/home-bg1.png",
@@ -50,10 +42,6 @@
   {
     "file": "images/menu-daily.png",
     "hash": "23e851a3b3e60c60e5b651d1b72a924a"
-  },
-  {
-    "file": "images/home-bg.png",
-    "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
     "file": "images/menu-daily@2x.png",
@@ -124,12 +112,12 @@
     "hash": "1ab4cd7a4c3e203ea44e041552699ccc"
   },
   {
-    "file": "images/sprite.png",
-    "hash": "79e689b209f0e894d74e9d92b1b4d23b"
-  },
-  {
     "file": "images/sprite.@2x.retina.png",
     "hash": "ee2d3b31a9c31a3b65f570c93e347118"
+  },
+  {
+    "file": "images/sprite.png",
+    "hash": "79e689b209f0e894d74e9d92b1b4d23b"
   },
   {
     "file": "images/zhangbiao-bg@1x.png",
@@ -140,12 +128,24 @@
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
-    "file": "css/index.css",
-    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "0ba83df8459288fd1fa1576465163ff5"
+  },
+  {
+    "file": "lib/flexible.js",
+    "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
     "file": "css/main.css",
     "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
+  },
+  {
+    "file": "css/index.css",
+    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
   },
   {
     "file": "css/iconfont/demo.css",
@@ -160,12 +160,12 @@
     "hash": "8e9d683c76ac5acbba3d989918b2214c"
   },
   {
-    "file": "css/iconfont/iconfont.eot",
-    "hash": "afed75d7fabefb6cc66782733dada26a"
-  },
-  {
     "file": "css/iconfont/iconfont.svg",
     "hash": "46db322b2dadec78d6aabe2cb8742a9b"
+  },
+  {
+    "file": "css/iconfont/iconfont.eot",
+    "hash": "afed75d7fabefb6cc66782733dada26a"
   },
   {
     "file": "css/iconfont/iconfont.ttf",
