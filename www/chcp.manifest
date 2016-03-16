@@ -13,23 +13,11 @@
   },
   {
     "file": "index.html",
-    "hash": "9dde5bcda59479e68a862744203df72c"
+    "hash": "7be970506908be816a887a45ab87f253"
   },
   {
     "file": "index2.html",
     "hash": "17f38c38a412f7888a761da364d7352f"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "7a94d417dc8dd8c962bc6ff5c67ebeb4"
-  },
-  {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
-  },
-  {
-    "file": "lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
     "file": "images/home-bg.png",
@@ -80,12 +68,12 @@
     "hash": "a1ee5a8cb87bddf13cc6c17b6f42047a"
   },
   {
-    "file": "images/menu-owe.png",
-    "hash": "0e5986429d073fdd98bae676b319e671"
-  },
-  {
     "file": "images/menu-feiyongqushi@2x.png",
     "hash": "a25e0c61c4619fc5da1635ac64a0a137"
+  },
+  {
+    "file": "images/menu-owe.png",
+    "hash": "0e5986429d073fdd98bae676b319e671"
   },
   {
     "file": "images/menu-owe@2x.png",
@@ -138,6 +126,18 @@
   {
     "file": "images/zhangbiao-bg@2x.png",
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "207958d8f67bae9558d7653fa4648041"
+  },
+  {
+    "file": "lib/flexible.js",
+    "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
     "file": "css/index.css",
