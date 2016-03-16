@@ -51,7 +51,7 @@ var app = {
         var options = {
             'config-file':'http://henr.github.io/www/chcp.json'
         };
-        chcp.configure(options, configureCallback);
+        chcp.configure(options, this.configureCallback);
     },
     configureCallback: function(error) {
         if (error) {

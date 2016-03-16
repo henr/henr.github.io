@@ -20,28 +20,16 @@
     "hash": "17f38c38a412f7888a761da364d7352f"
   },
   {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "207958d8f67bae9558d7653fa4648041"
-  },
-  {
-    "file": "lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
-  },
-  {
     "file": "images/home-bg.png",
     "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
-    "file": "images/home-bg1.png",
-    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
-  },
-  {
     "file": "images/home-bg2.png",
     "hash": "b6673476bd1b443829186f6642c6b007"
+  },
+  {
+    "file": "images/home-bg1.png",
+    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
   },
   {
     "file": "images/menu-cash.png",
@@ -64,12 +52,12 @@
     "hash": "dc5067dc7fad7076cb44bb003668b6af"
   },
   {
-    "file": "images/menu-detail@2x.png",
-    "hash": "ef04b3ed082308f2d101cb5071640f2f"
-  },
-  {
     "file": "images/menu-feiyong.png",
     "hash": "e5b73a83cf30cdda3ed72e366733c71e"
+  },
+  {
+    "file": "images/menu-detail@2x.png",
+    "hash": "ef04b3ed082308f2d101cb5071640f2f"
   },
   {
     "file": "images/menu-feiyong@2x.png",
@@ -140,12 +128,24 @@
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
-    "file": "css/main.css",
-    "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "84cb71abcc062428fcd41e3c35c52b30"
+  },
+  {
+    "file": "lib/flexible.js",
+    "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
     "file": "css/index.css",
     "hash": "e46d9a1c456a9c913ca10f3c16d50000"
+  },
+  {
+    "file": "css/main.css",
+    "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
   },
   {
     "file": "css/iconfont/demo.css",
