@@ -20,6 +20,14 @@
     "hash": "17f38c38a412f7888a761da364d7352f"
   },
   {
+    "file": "js/index.js",
+    "hash": "cc34ac6b49112117ada8516f6ed23c51"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
     "file": "images/home-bg.png",
     "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
@@ -76,12 +84,12 @@
     "hash": "0e5986429d073fdd98bae676b319e671"
   },
   {
-    "file": "images/menu-shouzhi.png",
-    "hash": "73d681abe0291c294e28a4cd30e5519e"
-  },
-  {
     "file": "images/menu-owe@2x.png",
     "hash": "56cd3a62f42cccc51f95055fb87d54a4"
+  },
+  {
+    "file": "images/menu-shouzhi.png",
+    "hash": "73d681abe0291c294e28a4cd30e5519e"
   },
   {
     "file": "images/menu-shouzhi@2x.png",
@@ -126,14 +134,6 @@
   {
     "file": "images/zhangbiao-bg@2x.png",
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
-  },
-  {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "db63975403b04778a0cdfc3a5de63159"
   },
   {
     "file": "lib/flexible.js",
