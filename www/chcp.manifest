@@ -1,11 +1,11 @@
 [
   {
-    "file": "chcp.js",
-    "hash": "4b257abf06db8227726b84b9719a9952"
-  },
-  {
     "file": "bundle.js",
     "hash": "6b3483645318a79634ab9290ba4dde2c"
+  },
+  {
+    "file": "chcp.js",
+    "hash": "4b257abf06db8227726b84b9719a9952"
   },
   {
     "file": "cordova.js",
@@ -13,7 +13,7 @@
   },
   {
     "file": "index.html",
-    "hash": "d89d4e5b3137e0a87d6aa0002b3d21f4"
+    "hash": "22987a1fd6f837838da2c6d3dc767022"
   },
   {
     "file": "index2.html",
@@ -52,12 +52,12 @@
     "hash": "dc5067dc7fad7076cb44bb003668b6af"
   },
   {
-    "file": "images/menu-feiyong.png",
-    "hash": "e5b73a83cf30cdda3ed72e366733c71e"
-  },
-  {
     "file": "images/menu-detail@2x.png",
     "hash": "ef04b3ed082308f2d101cb5071640f2f"
+  },
+  {
+    "file": "images/menu-feiyong.png",
+    "hash": "e5b73a83cf30cdda3ed72e366733c71e"
   },
   {
     "file": "images/menu-feiyong@2x.png",
@@ -104,12 +104,12 @@
     "hash": "8f2d0c8ee9b479ac340bc8736d0f53a6"
   },
   {
-    "file": "images/menu-yuer@2x.png",
-    "hash": "1ab4cd7a4c3e203ea44e041552699ccc"
-  },
-  {
     "file": "images/menu-yuer.png",
     "hash": "f1c5343415c99aa534f909ffdc098e73"
+  },
+  {
+    "file": "images/menu-yuer@2x.png",
+    "hash": "1ab4cd7a4c3e203ea44e041552699ccc"
   },
   {
     "file": "images/sprite.@2x.retina.png",
@@ -148,12 +148,12 @@
     "hash": "2b4a7faacd45c41b88bcf47f2c194ef1"
   },
   {
-    "file": "css/iconfont/demo.css",
-    "hash": "43fc64a4933c89bdf465ded521fc3649"
-  },
-  {
     "file": "css/iconfont/demo.html",
     "hash": "9ebe54ab6488c75314c727b3ffbbf627"
+  },
+  {
+    "file": "css/iconfont/demo.css",
+    "hash": "43fc64a4933c89bdf465ded521fc3649"
   },
   {
     "file": "css/iconfont/iconfont.css",
