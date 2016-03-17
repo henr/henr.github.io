@@ -49,7 +49,8 @@ var app = {
     },
     configurePlugin: function() {
         var options = {
-            'config-file':'http://henr.github.io/www/chcp.json'
+            'config-file':'http://henr.github.io/www/chcp.json',
+            'local-development':true
         };
         chcp.configure(options, this.configureCallback);
     },

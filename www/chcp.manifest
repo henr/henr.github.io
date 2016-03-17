@@ -20,6 +20,18 @@
     "hash": "17f38c38a412f7888a761da364d7352f"
   },
   {
+    "file": "lib/flexible.js",
+    "hash": "a38147641b5320bdf919e4c0b16ec25d"
+  },
+  {
+    "file": "js/index.js",
+    "hash": "7af5f9215067381c502fb8cc9f581f6a"
+  },
+  {
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
     "file": "images/home-bg.png",
     "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
@@ -112,10 +124,6 @@
     "hash": "1ab4cd7a4c3e203ea44e041552699ccc"
   },
   {
-    "file": "images/sprite.@2x.retina.png",
-    "hash": "ee2d3b31a9c31a3b65f570c93e347118"
-  },
-  {
     "file": "images/sprite.png",
     "hash": "79e689b209f0e894d74e9d92b1b4d23b"
   },
@@ -128,16 +136,8 @@
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
-    "file": "img/logo.png",
-    "hash": "7e34c95ac701f8cd9f793586b9df2156"
-  },
-  {
-    "file": "js/index.js",
-    "hash": "db63975403b04778a0cdfc3a5de63159"
-  },
-  {
-    "file": "lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
+    "file": "images/sprite.@2x.retina.png",
+    "hash": "ee2d3b31a9c31a3b65f570c93e347118"
   },
   {
     "file": "css/index.css",
