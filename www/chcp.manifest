@@ -1,19 +1,19 @@
 [
   {
-    "file": "chcp.js",
-    "hash": "4b257abf06db8227726b84b9719a9952"
-  },
-  {
     "file": "bundle.js",
     "hash": "18149b7b36d603d95d7c4d93f9e2b640"
   },
   {
-    "file": "index2.html",
-    "hash": "17f38c38a412f7888a761da364d7352f"
+    "file": "chcp.js",
+    "hash": "4b257abf06db8227726b84b9719a9952"
   },
   {
     "file": "index.html",
     "hash": "33a0c08f57939d126e8769c393ac662f"
+  },
+  {
+    "file": "index2.html",
+    "hash": "17f38c38a412f7888a761da364d7352f"
   },
   {
     "file": "images/home-bg.png",
@@ -68,24 +68,24 @@
     "hash": "1fd2d595ad42969901cb85b8ea2e673b"
   },
   {
-    "file": "images/my-bg1.png",
-    "hash": "49fdebb9a1891567fdb3f56a367c7352"
-  },
-  {
     "file": "images/menu-yuer.png",
     "hash": "5b0bf2e2d731a406e5695837d9fd4823"
+  },
+  {
+    "file": "images/my-bg1.png",
+    "hash": "49fdebb9a1891567fdb3f56a367c7352"
   },
   {
     "file": "images/sprite.png",
     "hash": "2591cf175b21ef1cccb046458561e58e"
   },
   {
-    "file": "images/zhangbiao-bg@2x.png",
-    "hash": "874b179e89c8a44f2c060645b18bd0b1"
-  },
-  {
     "file": "images/zhangbiao-bg@1x.png",
     "hash": "acb15c313f72baa1dc1ee381db5abb9b"
+  },
+  {
+    "file": "images/zhangbiao-bg@2x.png",
+    "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
     "file": "img/logo.png",
