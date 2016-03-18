@@ -1,0 +1,10 @@
+{
+  "name": "accounting",
+  "s3bucket": "accounting",
+  "s3region": "us-east-1",
+  "ios_identifier": "",
+  "android_identifier": "com.chanjet.accounting",
+  "update": "now",
+  "content_url": "https://s3.amazonaws.com/accounting",
+  "release": "2016.03.18-16.23.57"
+}
