@@ -5,7 +5,7 @@
   },
   {
     "file": "index.html",
-    "hash": "a9f5a41cdf8ec340e7469e3cc5f4f3c2"
+    "hash": "1ab2a249e5e3056c5358407ca69d934c"
   },
   {
     "file": "images/dayBook-zero.png",
@@ -20,12 +20,12 @@
     "hash": "09c51899fb16a62ab6cbfe056c004cb4"
   },
   {
-    "file": "images/menu-cash.png",
-    "hash": "2e21206a28d73d2e42860e09e38d526c"
-  },
-  {
     "file": "images/home-bg2.png",
     "hash": "b6673476bd1b443829186f6642c6b007"
+  },
+  {
+    "file": "images/menu-cash.png",
+    "hash": "2e21206a28d73d2e42860e09e38d526c"
   },
   {
     "file": "images/menu-daily.png",
@@ -64,12 +64,12 @@
     "hash": "5b0bf2e2d731a406e5695837d9fd4823"
   },
   {
-    "file": "images/my-bg1.png",
-    "hash": "49fdebb9a1891567fdb3f56a367c7352"
-  },
-  {
     "file": "images/sprite.png",
     "hash": "2591cf175b21ef1cccb046458561e58e"
+  },
+  {
+    "file": "images/my-bg1.png",
+    "hash": "49fdebb9a1891567fdb3f56a367c7352"
   },
   {
     "file": "images/zhangbiao-bg@1x.png",
@@ -104,12 +104,12 @@
     "hash": "43fc64a4933c89bdf465ded521fc3649"
   },
   {
-    "file": "css/iconfont/iconfont.css",
-    "hash": "8b3aaae153923886c2ba3ccb555c4abd"
-  },
-  {
     "file": "css/iconfont/demo.html",
     "hash": "e0344e25b548350fa86fb823183e6081"
+  },
+  {
+    "file": "css/iconfont/iconfont.css",
+    "hash": "8b3aaae153923886c2ba3ccb555c4abd"
   },
   {
     "file": "css/iconfont/iconfont.eot",
