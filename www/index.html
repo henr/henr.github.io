@@ -7,6 +7,18 @@
     <link href="../www/css/main.css" rel="stylesheet">
 </head>
 <body>
+
+<script type="text/javascript">
+            window.onerror = function (msg, url, line) {
+                var idx = url.lastIndexOf("/");
+                if (idx > -1) {
+                    url = url.substring(idx + 1);
+                }
+                alert("ERROR in " + url + " (line #" + line + "): " + msg);
+                return false;
+            };
+        </script>
+        
 <script src="lib/cordova.js"></script>
 <script src="lib/flexible.js"></script>
 <article id="app"></article>
