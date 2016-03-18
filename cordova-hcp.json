@@ -4,6 +4,6 @@
   "s3region": "us-east-1",
   "ios_identifier": "",
   "android_identifier": "com.chanjet.accounting",
-  "update": "now",
+  "update": "start",
   "content_url": "http://henr.github.io/www/"
 }
