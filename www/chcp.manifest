@@ -64,12 +64,12 @@
     "hash": "5b0bf2e2d731a406e5695837d9fd4823"
   },
   {
-    "file": "images/sprite.png",
-    "hash": "2591cf175b21ef1cccb046458561e58e"
-  },
-  {
     "file": "images/my-bg1.png",
     "hash": "49fdebb9a1891567fdb3f56a367c7352"
+  },
+  {
+    "file": "images/sprite.png",
+    "hash": "2591cf175b21ef1cccb046458561e58e"
   },
   {
     "file": "images/zhangbiao-bg@1x.png",
