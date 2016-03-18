@@ -5,5 +5,5 @@
   "ios_identifier": "",
   "android_identifier": "com.chanjet.accounting",
   "update": "now",
-  "content_url": "https://s3.amazonaws.com/accounting"
+  "content_url": "http://henr.github.io/www/"
 }

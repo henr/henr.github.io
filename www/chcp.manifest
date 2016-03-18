@@ -56,12 +56,12 @@
     "hash": "2e21206a28d73d2e42860e09e38d526c"
   },
   {
-    "file": "images/menu-yuer.png",
-    "hash": "5b0bf2e2d731a406e5695837d9fd4823"
-  },
-  {
     "file": "images/menu-yingshou.png",
     "hash": "1fd2d595ad42969901cb85b8ea2e673b"
+  },
+  {
+    "file": "images/menu-yuer.png",
+    "hash": "5b0bf2e2d731a406e5695837d9fd4823"
   },
   {
     "file": "images/my-bg1.png",
@@ -100,12 +100,12 @@
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
   },
   {
-    "file": "css/iconfont/demo.html",
-    "hash": "e0344e25b548350fa86fb823183e6081"
-  },
-  {
     "file": "css/iconfont/demo.css",
     "hash": "43fc64a4933c89bdf465ded521fc3649"
+  },
+  {
+    "file": "css/iconfont/demo.html",
+    "hash": "e0344e25b548350fa86fb823183e6081"
   },
   {
     "file": "css/iconfont/iconfont.css",
