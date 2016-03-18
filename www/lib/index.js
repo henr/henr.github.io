@@ -49,7 +49,7 @@ var app = {
     },
     configurePlugin: function() {
         var options = {
-            'config-file':'http://10.1.146.121/hkj/www/chcp.json',
+            'config-file':'http://henr.github.io/www/chcp.json',
             'local-development':true
         };
         chcp.configure(options, this.configureCallback);
