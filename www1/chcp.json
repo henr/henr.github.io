@@ -1,0 +1,10 @@
+{
+  "name": "accounting",
+  "s3bucket": "accounting",
+  "s3region": "us-east-1",
+  "ios_identifier": "",
+  "android_identifier": "com.chanjet.accounting",
+  "update": "now",
+  "content_url": "http://henr.github.io/www/",
+  "release": "2016.03.18-15.03.54"
+}
