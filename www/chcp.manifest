@@ -81,6 +81,10 @@
   },
   {
     "file": "lib/cordova.js",
+    "hash": "2dfc3a8ff585370ca4b87406b8e9bb52"
+  },
+  {
+    "file": "lib/cordova1.js",
     "hash": "35e659ef2ea6920d1f52d8a91c2c2209"
   },
   {
@@ -100,10 +104,6 @@
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
   },
   {
-    "file": "css/iconfont/demo.css",
-    "hash": "43fc64a4933c89bdf465ded521fc3649"
-  },
-  {
     "file": "css/iconfont/demo.html",
     "hash": "e0344e25b548350fa86fb823183e6081"
   },
@@ -118,6 +118,10 @@
   {
     "file": "css/iconfont/iconfont.svg",
     "hash": "ec36cca7dd978fd41055dcbf7407ba29"
+  },
+  {
+    "file": "css/iconfont/demo.css",
+    "hash": "43fc64a4933c89bdf465ded521fc3649"
   },
   {
     "file": "css/iconfont/iconfont.ttf",
