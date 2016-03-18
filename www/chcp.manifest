@@ -5,7 +5,7 @@
   },
   {
     "file": "index.html",
-    "hash": "107447b5262836f124898160c050fcdc"
+    "hash": "33a0c08f57939d126e8769c393ac662f"
   },
   {
     "file": "images/dayBook-zero.png",
@@ -32,12 +32,12 @@
     "hash": "07b7bfe73462d2d06eb747aabaaa8fdc"
   },
   {
-    "file": "images/menu-detail.png",
-    "hash": "8153d2eb69f0f8185abc84e432fa0f4d"
-  },
-  {
     "file": "images/menu-feiyong.png",
     "hash": "87f9f356741f198a7cde86b1d9d7d00e"
+  },
+  {
+    "file": "images/menu-detail.png",
+    "hash": "8153d2eb69f0f8185abc84e432fa0f4d"
   },
   {
     "file": "images/menu-feiyongqushi.png",
@@ -80,12 +80,12 @@
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
-    "file": "lib/cordova.js",
-    "hash": "35e659ef2ea6920d1f52d8a91c2c2209"
-  },
-  {
     "file": "lib/cordova_plugins.js",
     "hash": "3713b77d4a90a57f8bff744d92a36892"
+  },
+  {
+    "file": "lib/cordova.js",
+    "hash": "35e659ef2ea6920d1f52d8a91c2c2209"
   },
   {
     "file": "lib/flexible.js",
