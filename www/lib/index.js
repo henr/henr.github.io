@@ -34,7 +34,7 @@ var app = {
     // function, we must explicitly call 'app.receivedEvent(...);'
     onDeviceReady: function() {
         // app.receivedEvent('deviceready');
-        //app.configurePlugin();
+//        app.configurePlugin();
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
@@ -62,7 +62,7 @@ var app = {
             console.log(error.description);
         } else {
             console.log('Plugin configured successfully');
-//            chcp.fetchUpdate(this.fetchUpdateCallback);
+           chcp.fetchUpdate(this.fetchUpdateCallback);
         }
     },
     fetchUpdateCallback: function(error, data) {

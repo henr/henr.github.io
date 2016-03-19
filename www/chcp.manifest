@@ -12,20 +12,20 @@
     "hash": "70b4bac2c6d35c86bb40cb442ba7dcd4"
   },
   {
-    "file": "images/home-bg.png",
-    "hash": "1cb539e977f60ba61583c81d22f99cf5"
-  },
-  {
     "file": "images/dayBook-zero.png",
     "hash": "ea93684ad987e2b0c364488da125d5ee"
   },
   {
-    "file": "images/home-bg1.png",
-    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
-  },
-  {
     "file": "images/home-bg2.png",
     "hash": "b6673476bd1b443829186f6642c6b007"
+  },
+  {
+    "file": "images/home-bg.png",
+    "hash": "1cb539e977f60ba61583c81d22f99cf5"
+  },
+  {
+    "file": "images/home-bg1.png",
+    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
   },
   {
     "file": "images/menu-cash.png",
@@ -64,12 +64,12 @@
     "hash": "1fd2d595ad42969901cb85b8ea2e673b"
   },
   {
-    "file": "images/my-bg1.png",
-    "hash": "49fdebb9a1891567fdb3f56a367c7352"
-  },
-  {
     "file": "images/menu-yuer.png",
     "hash": "5b0bf2e2d731a406e5695837d9fd4823"
+  },
+  {
+    "file": "images/my-bg1.png",
+    "hash": "49fdebb9a1891567fdb3f56a367c7352"
   },
   {
     "file": "images/sprite.png",
@@ -97,15 +97,11 @@
   },
   {
     "file": "lib/index.js",
-    "hash": "df4adb6fbd89e83d3c795e62e4362a24"
+    "hash": "1f30f28d729ae394b1844b02a6c31a0d"
   },
   {
     "file": "css/main.css",
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
-  },
-  {
-    "file": "css/iconfont/demo.html",
-    "hash": "e0344e25b548350fa86fb823183e6081"
   },
   {
     "file": "css/iconfont/demo.css",
@@ -116,8 +112,16 @@
     "hash": "8b3aaae153923886c2ba3ccb555c4abd"
   },
   {
+    "file": "css/iconfont/demo.html",
+    "hash": "e0344e25b548350fa86fb823183e6081"
+  },
+  {
     "file": "css/iconfont/iconfont.eot",
     "hash": "0e5a9948e42a1770ec889adc84db6797"
+  },
+  {
+    "file": "css/iconfont/iconfont.svg",
+    "hash": "ec36cca7dd978fd41055dcbf7407ba29"
   },
   {
     "file": "css/iconfont/iconfont.ttf",
@@ -126,9 +130,5 @@
   {
     "file": "css/iconfont/iconfont.woff",
     "hash": "0b147bdd74928e309da43037f7ea1119"
-  },
-  {
-    "file": "css/iconfont/iconfont.svg",
-    "hash": "ec36cca7dd978fd41055dcbf7407ba29"
   }
 ]
