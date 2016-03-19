@@ -60,12 +60,12 @@
     "hash": "2e21206a28d73d2e42860e09e38d526c"
   },
   {
-    "file": "images/menu-yuer.png",
-    "hash": "5b0bf2e2d731a406e5695837d9fd4823"
-  },
-  {
     "file": "images/menu-yingshou.png",
     "hash": "1fd2d595ad42969901cb85b8ea2e673b"
+  },
+  {
+    "file": "images/menu-yuer.png",
+    "hash": "5b0bf2e2d731a406e5695837d9fd4823"
   },
   {
     "file": "images/my-bg1.png",
@@ -97,7 +97,7 @@
   },
   {
     "file": "lib/index.js",
-    "hash": "5c73b7ed13d7fd78a9325718f57f897c"
+    "hash": "3f612ab6e330af772cf4d24dca8e2688"
   },
   {
     "file": "css/main.css",
