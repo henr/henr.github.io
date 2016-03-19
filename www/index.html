@@ -3,20 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <title>好会计</title>
+    <link href="css/iconfont/iconfont.css" rel="stylesheet"/>
+    <link href="../www/css/main.css" rel="stylesheet">
 </head>
 <body>
-
-test hot code push
-
-<script type="text/javascript">
-            window.onerror = function (msg, url, line) {
-                var idx = url.lastIndexOf("/");
-                if (idx > -1) {
-                    url = url.substring(idx + 1);
-                }
-                alert("ERROR in " + url + " (line #" + line + "): " + msg);
-                return false;
-            };
-        </script>
+<script src="lib/cordova.js"></script>
+<script src="lib/index.js"></script>
+<script src="lib/flexible.js"></script>
+<article id="app"></article>
+<script src=".././www/bundle.js"></script>
 </body>
 </html>

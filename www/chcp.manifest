@@ -5,11 +5,11 @@
   },
   {
     "file": "index.html",
-    "hash": "70b4bac2c6d35c86bb40cb442ba7dcd4"
+    "hash": "5e5f293daf13815abfc7975ff2310541"
   },
   {
-    "file": "index1.html",
-    "hash": "ed2fb7c196e9bbcdb389cc62c2dfdda1"
+    "file": "index2.html",
+    "hash": "70b4bac2c6d35c86bb40cb442ba7dcd4"
   },
   {
     "file": "images/dayBook-zero.png",
@@ -85,15 +85,11 @@
   },
   {
     "file": "lib/cordova.js",
-    "hash": "2dfc3a8ff585370ca4b87406b8e9bb52"
-  },
-  {
-    "file": "lib/cordova1.js",
-    "hash": "35e659ef2ea6920d1f52d8a91c2c2209"
+    "hash": "0f0c3e6696e587f59a4a5b0d2d85c1a3"
   },
   {
     "file": "lib/cordova_plugins.js",
-    "hash": "3713b77d4a90a57f8bff744d92a36892"
+    "hash": "1ad6d7d8e0e42cdc3f24b3c9feaae8de"
   },
   {
     "file": "lib/flexible.js",
@@ -101,15 +97,11 @@
   },
   {
     "file": "lib/index.js",
-    "hash": "7af5f9215067381c502fb8cc9f581f6a"
+    "hash": "ffb57343fc4d1bae6daa2606d97fd579"
   },
   {
     "file": "css/main.css",
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
-  },
-  {
-    "file": "css/iconfont/iconfont.css",
-    "hash": "8b3aaae153923886c2ba3ccb555c4abd"
   },
   {
     "file": "css/iconfont/demo.css",
@@ -118,6 +110,10 @@
   {
     "file": "css/iconfont/demo.html",
     "hash": "e0344e25b548350fa86fb823183e6081"
+  },
+  {
+    "file": "css/iconfont/iconfont.css",
+    "hash": "8b3aaae153923886c2ba3ccb555c4abd"
   },
   {
     "file": "css/iconfont/iconfont.eot",
