@@ -50,7 +50,9 @@ var app = {
     configurePlugin: function() {
         var options = {
             'config-file':'http://henr.github.io/www/chcp.json',
-            'local-development':false
+            'local-development':false,
+            'auto-download':false,
+            'auto-install':false
         };
         chcp.configure(options, this.configureCallback);
     },
@@ -60,15 +62,12 @@ var app = {
             console.log(error.description);
         } else {
             console.log('Plugin configured successfully');
-            app.checkForUpdate();
+            chcp.fetchUpdate(this.fetchUpdateCallback);
         }
-    },
-    checkForUpdate: function() {
-        chcp.fetchUpdate(this.fetchUpdateCallback);
     },
     fetchUpdateCallback: function(error, data) {
         if (error) {
-            console.log('Fialed to load the update with error code:' + error.code);
+            console.log('Failed to load the update with error code:' + error.code);
             console.log(error.description);
             return;
         }

@@ -97,19 +97,11 @@
   },
   {
     "file": "lib/index.js",
-    "hash": "ffb57343fc4d1bae6daa2606d97fd579"
+    "hash": "3f612ab6e330af772cf4d24dca8e2688"
   },
   {
     "file": "css/main.css",
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
-  },
-  {
-    "file": "css/iconfont/demo.html",
-    "hash": "e0344e25b548350fa86fb823183e6081"
-  },
-  {
-    "file": "css/iconfont/iconfont.css",
-    "hash": "8b3aaae153923886c2ba3ccb555c4abd"
   },
   {
     "file": "css/iconfont/demo.css",
@@ -118,6 +110,14 @@
   {
     "file": "css/iconfont/iconfont.eot",
     "hash": "0e5a9948e42a1770ec889adc84db6797"
+  },
+  {
+    "file": "css/iconfont/demo.html",
+    "hash": "e0344e25b548350fa86fb823183e6081"
+  },
+  {
+    "file": "css/iconfont/iconfont.css",
+    "hash": "8b3aaae153923886c2ba3ccb555c4abd"
   },
   {
     "file": "css/iconfont/iconfont.svg",
