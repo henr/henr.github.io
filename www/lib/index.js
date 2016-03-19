@@ -51,8 +51,8 @@ var app = {
         var options = {
             'config-file':'http://henr.github.io/www/chcp.json',
             'local-development':false,
-            'auto-download':false,
-            'auto-install':false
+            'auto-download':true,
+            'auto-install':true
         };
         chcp.configure(options, this.configureCallback);
     },
@@ -62,7 +62,8 @@ var app = {
             console.log(error.description);
         } else {
             console.log('Plugin configured successfully');
-            chcp.fetchUpdate(this.fetchUpdateCallback);
+            chcp.fetchUpdate(null);
+//            chcp.fetchUpdate(this.fetchUpdateCallback);
         }
     },
     fetchUpdateCallback: function(error, data) {
