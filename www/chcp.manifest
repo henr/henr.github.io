@@ -5,7 +5,7 @@
   },
   {
     "file": "index.html",
-    "hash": "f1015fefef490b3384351bb38e0e9fc6"
+    "hash": "35891de33b70ddf39666fbbc2a11dd88"
   },
   {
     "file": "index2.html",
@@ -16,16 +16,16 @@
     "hash": "ea93684ad987e2b0c364488da125d5ee"
   },
   {
-    "file": "images/home-bg2.png",
-    "hash": "b6673476bd1b443829186f6642c6b007"
-  },
-  {
     "file": "images/home-bg.png",
     "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
     "file": "images/home-bg1.png",
     "hash": "09c51899fb16a62ab6cbfe056c004cb4"
+  },
+  {
+    "file": "images/home-bg2.png",
+    "hash": "b6673476bd1b443829186f6642c6b007"
   },
   {
     "file": "images/menu-cash.png",
@@ -104,16 +104,16 @@
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
   },
   {
+    "file": "css/iconfont/demo.html",
+    "hash": "e0344e25b548350fa86fb823183e6081"
+  },
+  {
     "file": "css/iconfont/demo.css",
     "hash": "43fc64a4933c89bdf465ded521fc3649"
   },
   {
     "file": "css/iconfont/iconfont.css",
     "hash": "8b3aaae153923886c2ba3ccb555c4abd"
-  },
-  {
-    "file": "css/iconfont/demo.html",
-    "hash": "e0344e25b548350fa86fb823183e6081"
   },
   {
     "file": "css/iconfont/iconfont.eot",
