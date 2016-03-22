@@ -1,5 +1,9 @@
 [
   {
+    "file": "cordova_plugins.js",
+    "hash": "5c71661546f4a3671f6d666f199b649a"
+  },
+  {
     "file": "cordova.js",
     "hash": "2dfc3a8ff585370ca4b87406b8e9bb52"
   },
@@ -18,5 +22,21 @@
   {
     "file": "js/index.js",
     "hash": "3e322f4f4f3098c9e7c8a315f4fb590b"
+  },
+  {
+    "file": "plugins/cordova-hot-code-push-local-dev-addon/www/chcpLocalDev.js",
+    "hash": "e13bcf497fdd0be49aee1bc401c7b635"
+  },
+  {
+    "file": "plugins/cordova-hot-code-push-plugin/www/chcp.js",
+    "hash": "e6df25381632052165d3e9f73640a2f8"
+  },
+  {
+    "file": "plugins/cordova-plugin-console/www/console-via-logger.js",
+    "hash": "3415c3d7cc0e4d7e6fa58e62844dbb45"
+  },
+  {
+    "file": "plugins/cordova-plugin-console/www/logger.js",
+    "hash": "3ee3c5642895ad272cc92dc3cfd17874"
   }
 ]
