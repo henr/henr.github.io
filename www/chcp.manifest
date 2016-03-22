@@ -1,15 +1,15 @@
 [
   {
-    "file": "cordova_plugins.js",
-    "hash": "5c71661546f4a3671f6d666f199b649a"
-  },
-  {
     "file": "cordova.js",
     "hash": "2dfc3a8ff585370ca4b87406b8e9bb52"
   },
   {
+    "file": "cordova_plugins.js",
+    "hash": "5c71661546f4a3671f6d666f199b649a"
+  },
+  {
     "file": "index.html",
-    "hash": "3155f3fe02ef9a48a9cc5b1ae787f3e5"
+    "hash": "43c7746466d621903fa8914561f3325b"
   },
   {
     "file": "css/index.css",
