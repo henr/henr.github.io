@@ -5,7 +5,7 @@
   },
   {
     "file": "index.html",
-    "hash": "ef7893d1a44fabe5269c3e1fa2075c07"
+    "hash": "99efaea95bb2740648e393c36ea92aa1"
   },
   {
     "file": "images/dayBook-zero.png",
@@ -32,12 +32,12 @@
     "hash": "07b7bfe73462d2d06eb747aabaaa8fdc"
   },
   {
-    "file": "images/menu-detail.png",
-    "hash": "8153d2eb69f0f8185abc84e432fa0f4d"
-  },
-  {
     "file": "images/menu-feiyong.png",
     "hash": "87f9f356741f198a7cde86b1d9d7d00e"
+  },
+  {
+    "file": "images/menu-detail.png",
+    "hash": "8153d2eb69f0f8185abc84e432fa0f4d"
   },
   {
     "file": "images/menu-feiyongqushi.png",
@@ -88,12 +88,12 @@
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
   },
   {
-    "file": "css/iconfont/demo.css",
-    "hash": "43fc64a4933c89bdf465ded521fc3649"
-  },
-  {
     "file": "css/iconfont/demo.html",
     "hash": "e0344e25b548350fa86fb823183e6081"
+  },
+  {
+    "file": "css/iconfont/demo.css",
+    "hash": "43fc64a4933c89bdf465ded521fc3649"
   },
   {
     "file": "css/iconfont/iconfont.css",
