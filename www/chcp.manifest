@@ -4,8 +4,20 @@
     "hash": "2929b955b9ce1a3610e7051e8cf94a45"
   },
   {
+    "file": "cordova.js",
+    "hash": "2dfc3a8ff585370ca4b87406b8e9bb52"
+  },
+  {
+    "file": "cordova_plugins.js",
+    "hash": "9e4343533ee10f4cb2c763e2a19cbb3a"
+  },
+  {
     "file": "index.html",
     "hash": "99efaea95bb2740648e393c36ea92aa1"
+  },
+  {
+    "file": "index.js",
+    "hash": "0820ee953549644bc6ec956a1b8660c3"
   },
   {
     "file": "images/dayBook-zero.png",
@@ -32,12 +44,12 @@
     "hash": "07b7bfe73462d2d06eb747aabaaa8fdc"
   },
   {
-    "file": "images/menu-feiyong.png",
-    "hash": "87f9f356741f198a7cde86b1d9d7d00e"
-  },
-  {
     "file": "images/menu-detail.png",
     "hash": "8153d2eb69f0f8185abc84e432fa0f4d"
+  },
+  {
+    "file": "images/menu-feiyong.png",
+    "hash": "87f9f356741f198a7cde86b1d9d7d00e"
   },
   {
     "file": "images/menu-feiyongqushi.png",
@@ -52,12 +64,12 @@
     "hash": "0dc490a4f8ca31391e3e81e6d3268d47"
   },
   {
-    "file": "images/menu-total.png",
-    "hash": "2e21206a28d73d2e42860e09e38d526c"
-  },
-  {
     "file": "images/menu-yingshou.png",
     "hash": "1fd2d595ad42969901cb85b8ea2e673b"
+  },
+  {
+    "file": "images/menu-total.png",
+    "hash": "2e21206a28d73d2e42860e09e38d526c"
   },
   {
     "file": "images/menu-yuer.png",
@@ -88,12 +100,12 @@
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
   },
   {
-    "file": "css/iconfont/demo.html",
-    "hash": "e0344e25b548350fa86fb823183e6081"
-  },
-  {
     "file": "css/iconfont/demo.css",
     "hash": "43fc64a4933c89bdf465ded521fc3649"
+  },
+  {
+    "file": "css/iconfont/demo.html",
+    "hash": "e0344e25b548350fa86fb823183e6081"
   },
   {
     "file": "css/iconfont/iconfont.css",
