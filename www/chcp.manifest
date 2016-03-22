@@ -8,12 +8,12 @@
     "hash": "5e5f293daf13815abfc7975ff2310541"
   },
   {
-    "file": "index2.html",
-    "hash": "70b4bac2c6d35c86bb40cb442ba7dcd4"
-  },
-  {
     "file": "images/dayBook-zero.png",
     "hash": "ea93684ad987e2b0c364488da125d5ee"
+  },
+  {
+    "file": "images/home-bg.png",
+    "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
     "file": "images/home-bg1.png",
@@ -24,12 +24,12 @@
     "hash": "b6673476bd1b443829186f6642c6b007"
   },
   {
-    "file": "images/menu-daily.png",
-    "hash": "07b7bfe73462d2d06eb747aabaaa8fdc"
-  },
-  {
     "file": "images/menu-cash.png",
     "hash": "2e21206a28d73d2e42860e09e38d526c"
+  },
+  {
+    "file": "images/menu-daily.png",
+    "hash": "07b7bfe73462d2d06eb747aabaaa8fdc"
   },
   {
     "file": "images/menu-detail.png",
@@ -40,16 +40,8 @@
     "hash": "87f9f356741f198a7cde86b1d9d7d00e"
   },
   {
-    "file": "images/home-bg.png",
-    "hash": "1cb539e977f60ba61583c81d22f99cf5"
-  },
-  {
     "file": "images/menu-feiyongqushi.png",
     "hash": "03603e3afc5e76edeb0b41c865e82205"
-  },
-  {
-    "file": "images/menu-total.png",
-    "hash": "2e21206a28d73d2e42860e09e38d526c"
   },
   {
     "file": "images/menu-owe.png",
@@ -58,6 +50,10 @@
   {
     "file": "images/menu-shouzhi.png",
     "hash": "0dc490a4f8ca31391e3e81e6d3268d47"
+  },
+  {
+    "file": "images/menu-total.png",
+    "hash": "2e21206a28d73d2e42860e09e38d526c"
   },
   {
     "file": "images/menu-yingshou.png",
@@ -88,20 +84,16 @@
     "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
-    "file": "lib/index.js",
-    "hash": "1f30f28d729ae394b1844b02a6c31a0d"
-  },
-  {
     "file": "css/main.css",
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
   },
   {
-    "file": "css/iconfont/demo.html",
-    "hash": "e0344e25b548350fa86fb823183e6081"
-  },
-  {
     "file": "css/iconfont/demo.css",
     "hash": "43fc64a4933c89bdf465ded521fc3649"
+  },
+  {
+    "file": "css/iconfont/demo.html",
+    "hash": "e0344e25b548350fa86fb823183e6081"
   },
   {
     "file": "css/iconfont/iconfont.css",
@@ -112,12 +104,12 @@
     "hash": "0e5a9948e42a1770ec889adc84db6797"
   },
   {
-    "file": "css/iconfont/iconfont.ttf",
-    "hash": "4f9c2ee68d6b6340e0af9541c2b8a1e7"
-  },
-  {
     "file": "css/iconfont/iconfont.svg",
     "hash": "ec36cca7dd978fd41055dcbf7407ba29"
+  },
+  {
+    "file": "css/iconfont/iconfont.ttf",
+    "hash": "4f9c2ee68d6b6340e0af9541c2b8a1e7"
   },
   {
     "file": "css/iconfont/iconfont.woff",
