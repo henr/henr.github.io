@@ -5,19 +5,19 @@
   },
   {
     "file": "index.html",
-    "hash": "086457c313e578feaaf1c495bfad15bb"
+    "hash": "a1aa88535b895bdc551d2a5c22b4378f"
   },
   {
     "file": "images/dayBook-zero.png",
     "hash": "ea93684ad987e2b0c364488da125d5ee"
   },
   {
-    "file": "images/home-bg1.png",
-    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
-  },
-  {
     "file": "images/home-bg.png",
     "hash": "1cb539e977f60ba61583c81d22f99cf5"
+  },
+  {
+    "file": "images/home-bg1.png",
+    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
   },
   {
     "file": "images/home-bg2.png",
