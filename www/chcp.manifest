@@ -1,118 +1,18 @@
 [
   {
-    "file": "bundle.js",
-    "hash": "2929b955b9ce1a3610e7051e8cf94a45"
-  },
-  {
     "file": "index.html",
-    "hash": "e4ae42bd092580168ad590dc36d4f370"
+    "hash": "0a965305e6c7572a22c63711583ef14e"
   },
   {
-    "file": "images/home-bg.png",
-    "hash": "1cb539e977f60ba61583c81d22f99cf5"
+    "file": "css/index.css",
+    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
   },
   {
-    "file": "images/dayBook-zero.png",
-    "hash": "ea93684ad987e2b0c364488da125d5ee"
+    "file": "img/logo.png",
+    "hash": "7e34c95ac701f8cd9f793586b9df2156"
   },
   {
-    "file": "images/home-bg2.png",
-    "hash": "b6673476bd1b443829186f6642c6b007"
-  },
-  {
-    "file": "images/menu-daily.png",
-    "hash": "07b7bfe73462d2d06eb747aabaaa8fdc"
-  },
-  {
-    "file": "images/menu-cash.png",
-    "hash": "2e21206a28d73d2e42860e09e38d526c"
-  },
-  {
-    "file": "images/menu-detail.png",
-    "hash": "8153d2eb69f0f8185abc84e432fa0f4d"
-  },
-  {
-    "file": "images/menu-feiyongqushi.png",
-    "hash": "03603e3afc5e76edeb0b41c865e82205"
-  },
-  {
-    "file": "images/menu-feiyong.png",
-    "hash": "87f9f356741f198a7cde86b1d9d7d00e"
-  },
-  {
-    "file": "images/home-bg1.png",
-    "hash": "09c51899fb16a62ab6cbfe056c004cb4"
-  },
-  {
-    "file": "images/menu-owe.png",
-    "hash": "fbc49339f29424906f29188b87e2068c"
-  },
-  {
-    "file": "images/menu-total.png",
-    "hash": "2e21206a28d73d2e42860e09e38d526c"
-  },
-  {
-    "file": "images/menu-shouzhi.png",
-    "hash": "0dc490a4f8ca31391e3e81e6d3268d47"
-  },
-  {
-    "file": "images/menu-yuer.png",
-    "hash": "5b0bf2e2d731a406e5695837d9fd4823"
-  },
-  {
-    "file": "images/my-bg1.png",
-    "hash": "49fdebb9a1891567fdb3f56a367c7352"
-  },
-  {
-    "file": "images/zhangbiao-bg@2x.png",
-    "hash": "874b179e89c8a44f2c060645b18bd0b1"
-  },
-  {
-    "file": "images/sprite.png",
-    "hash": "2591cf175b21ef1cccb046458561e58e"
-  },
-  {
-    "file": "images/zhangbiao-bg@1x.png",
-    "hash": "acb15c313f72baa1dc1ee381db5abb9b"
-  },
-  {
-    "file": "images/menu-yingshou.png",
-    "hash": "1fd2d595ad42969901cb85b8ea2e673b"
-  },
-  {
-    "file": "lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
-  },
-  {
-    "file": "css/main.css",
-    "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
-  },
-  {
-    "file": "css/iconfont/iconfont.css",
-    "hash": "8b3aaae153923886c2ba3ccb555c4abd"
-  },
-  {
-    "file": "css/iconfont/iconfont.eot",
-    "hash": "0e5a9948e42a1770ec889adc84db6797"
-  },
-  {
-    "file": "css/iconfont/demo.html",
-    "hash": "e0344e25b548350fa86fb823183e6081"
-  },
-  {
-    "file": "css/iconfont/iconfont.svg",
-    "hash": "ec36cca7dd978fd41055dcbf7407ba29"
-  },
-  {
-    "file": "css/iconfont/demo.css",
-    "hash": "43fc64a4933c89bdf465ded521fc3649"
-  },
-  {
-    "file": "css/iconfont/iconfont.ttf",
-    "hash": "4f9c2ee68d6b6340e0af9541c2b8a1e7"
-  },
-  {
-    "file": "css/iconfont/iconfont.woff",
-    "hash": "0b147bdd74928e309da43037f7ea1119"
+    "file": "js/index.js",
+    "hash": "3e322f4f4f3098c9e7c8a315f4fb590b"
   }
 ]
