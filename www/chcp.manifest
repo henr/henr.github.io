@@ -1,5 +1,9 @@
 [
   {
+    "file": "cordova.js",
+    "hash": "2dfc3a8ff585370ca4b87406b8e9bb52"
+  },
+  {
     "file": "index.html",
     "hash": "0a965305e6c7572a22c63711583ef14e"
   },
