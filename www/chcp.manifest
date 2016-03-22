@@ -17,11 +17,7 @@
   },
   {
     "file": "index.js",
-    "hash": "0820ee953549644bc6ec956a1b8660c3"
-  },
-  {
-    "file": "lib/flexible.js",
-    "hash": "a38147641b5320bdf919e4c0b16ec25d"
+    "hash": "7c04ab97c586257f002d17045a9e4a0d"
   },
   {
     "file": "images/dayBook-zero.png",
@@ -44,10 +40,6 @@
     "hash": "2e21206a28d73d2e42860e09e38d526c"
   },
   {
-    "file": "images/menu-detail.png",
-    "hash": "8153d2eb69f0f8185abc84e432fa0f4d"
-  },
-  {
     "file": "images/menu-daily.png",
     "hash": "07b7bfe73462d2d06eb747aabaaa8fdc"
   },
@@ -56,12 +48,16 @@
     "hash": "87f9f356741f198a7cde86b1d9d7d00e"
   },
   {
-    "file": "images/menu-owe.png",
-    "hash": "fbc49339f29424906f29188b87e2068c"
+    "file": "images/menu-detail.png",
+    "hash": "8153d2eb69f0f8185abc84e432fa0f4d"
   },
   {
     "file": "images/menu-feiyongqushi.png",
     "hash": "03603e3afc5e76edeb0b41c865e82205"
+  },
+  {
+    "file": "images/menu-owe.png",
+    "hash": "fbc49339f29424906f29188b87e2068c"
   },
   {
     "file": "images/menu-shouzhi.png",
@@ -76,6 +72,10 @@
     "hash": "1fd2d595ad42969901cb85b8ea2e673b"
   },
   {
+    "file": "images/menu-yuer.png",
+    "hash": "5b0bf2e2d731a406e5695837d9fd4823"
+  },
+  {
     "file": "images/my-bg1.png",
     "hash": "49fdebb9a1891567fdb3f56a367c7352"
   },
@@ -84,20 +84,28 @@
     "hash": "2591cf175b21ef1cccb046458561e58e"
   },
   {
-    "file": "images/menu-yuer.png",
-    "hash": "5b0bf2e2d731a406e5695837d9fd4823"
+    "file": "images/zhangbiao-bg@1x.png",
+    "hash": "acb15c313f72baa1dc1ee381db5abb9b"
   },
   {
     "file": "images/zhangbiao-bg@2x.png",
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
-    "file": "images/zhangbiao-bg@1x.png",
-    "hash": "acb15c313f72baa1dc1ee381db5abb9b"
+    "file": "lib/flexible.js",
+    "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
   {
     "file": "css/main.css",
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
+  },
+  {
+    "file": "css/iconfont/demo.css",
+    "hash": "43fc64a4933c89bdf465ded521fc3649"
+  },
+  {
+    "file": "css/iconfont/demo.html",
+    "hash": "e0344e25b548350fa86fb823183e6081"
   },
   {
     "file": "css/iconfont/iconfont.css",
@@ -112,14 +120,6 @@
     "hash": "ec36cca7dd978fd41055dcbf7407ba29"
   },
   {
-    "file": "css/iconfont/demo.html",
-    "hash": "e0344e25b548350fa86fb823183e6081"
-  },
-  {
-    "file": "css/iconfont/demo.css",
-    "hash": "43fc64a4933c89bdf465ded521fc3649"
-  },
-  {
     "file": "css/iconfont/iconfont.ttf",
     "hash": "4f9c2ee68d6b6340e0af9541c2b8a1e7"
   },
@@ -128,12 +128,12 @@
     "hash": "0b147bdd74928e309da43037f7ea1119"
   },
   {
-    "file": "plugins/cordova-hot-code-push-plugin/www/chcp.js",
-    "hash": "e6df25381632052165d3e9f73640a2f8"
-  },
-  {
     "file": "plugins/cordova-hot-code-push-local-dev-addon/www/chcpLocalDev.js",
     "hash": "e13bcf497fdd0be49aee1bc401c7b635"
+  },
+  {
+    "file": "plugins/cordova-hot-code-push-plugin/www/chcp.js",
+    "hash": "e6df25381632052165d3e9f73640a2f8"
   },
   {
     "file": "plugins/cordova-plugin-console/www/console-via-logger.js",

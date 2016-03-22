@@ -35,6 +35,7 @@ var app = {
     onDeviceReady: function() {
         // app.receivedEvent('deviceready');
 //        app.configurePlugin();
+        console.log("console.log onDeviceReady");
     },
     // Update DOM on a Received Event
     receivedEvent: function(id) {
