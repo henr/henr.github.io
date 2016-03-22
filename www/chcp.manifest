@@ -1,23 +1,23 @@
 [
   {
     "file": "bundle.js",
-    "hash": "18149b7b36d603d95d7c4d93f9e2b640"
+    "hash": "2929b955b9ce1a3610e7051e8cf94a45"
   },
   {
     "file": "index.html",
-    "hash": "5e5f293daf13815abfc7975ff2310541"
+    "hash": "ad4bb3dd7f6c4ad853c2bb0124d59377"
   },
   {
     "file": "index2.html",
     "hash": "70b4bac2c6d35c86bb40cb442ba7dcd4"
   },
   {
-    "file": "images/home-bg.png",
-    "hash": "1cb539e977f60ba61583c81d22f99cf5"
-  },
-  {
     "file": "images/dayBook-zero.png",
     "hash": "ea93684ad987e2b0c364488da125d5ee"
+  },
+  {
+    "file": "images/home-bg.png",
+    "hash": "1cb539e977f60ba61583c81d22f99cf5"
   },
   {
     "file": "images/home-bg1.png",
@@ -84,14 +84,6 @@
     "hash": "874b179e89c8a44f2c060645b18bd0b1"
   },
   {
-    "file": "lib/cordova.js",
-    "hash": "0f0c3e6696e587f59a4a5b0d2d85c1a3"
-  },
-  {
-    "file": "lib/cordova_plugins.js",
-    "hash": "1ad6d7d8e0e42cdc3f24b3c9feaae8de"
-  },
-  {
     "file": "lib/flexible.js",
     "hash": "a38147641b5320bdf919e4c0b16ec25d"
   },
@@ -104,20 +96,20 @@
     "hash": "e86e4aff9b4de00deac8e6d11144e4fa"
   },
   {
-    "file": "css/iconfont/demo.css",
-    "hash": "43fc64a4933c89bdf465ded521fc3649"
-  },
-  {
     "file": "css/iconfont/demo.html",
     "hash": "e0344e25b548350fa86fb823183e6081"
   },
   {
-    "file": "css/iconfont/iconfont.css",
-    "hash": "8b3aaae153923886c2ba3ccb555c4abd"
+    "file": "css/iconfont/demo.css",
+    "hash": "43fc64a4933c89bdf465ded521fc3649"
   },
   {
     "file": "css/iconfont/iconfont.eot",
     "hash": "0e5a9948e42a1770ec889adc84db6797"
+  },
+  {
+    "file": "css/iconfont/iconfont.css",
+    "hash": "8b3aaae153923886c2ba3ccb555c4abd"
   },
   {
     "file": "css/iconfont/iconfont.svg",

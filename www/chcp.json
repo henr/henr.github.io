@@ -5,7 +5,7 @@
   "ios_identifier": "",
   "android_identifier": "com.chanjet.accounting",
   "update": "now",
-  "content_url": "http://henr.github.io/www",
+  "content_url": "http://henr.github.io/www/",
   "min_native_interface": 1,
-  "release": "2016.03.19-19.44.50"
+  "release": "2016.03.22-10.02.43"
 }
