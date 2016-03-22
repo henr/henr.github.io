@@ -8,12 +8,12 @@
     "hash": "0a965305e6c7572a22c63711583ef14e"
   },
   {
-    "file": "css/index.css",
-    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
-  },
-  {
     "file": "img/logo.png",
     "hash": "7e34c95ac701f8cd9f793586b9df2156"
+  },
+  {
+    "file": "css/index.css",
+    "hash": "e46d9a1c456a9c913ca10f3c16d50000"
   },
   {
     "file": "js/index.js",
