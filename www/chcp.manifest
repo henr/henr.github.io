@@ -9,11 +9,11 @@
   },
   {
     "file": "index.html",
-    "hash": "8de69e8a4e886eec528e0d68e230f0d4"
+    "hash": "8a087c1fa7dbfec89e1b5fd4c89df39c"
   },
   {
-    "file": "index1.html",
-    "hash": "3b550897189411cf7b69adbb8a212372"
+    "file": "index2.html",
+    "hash": "8de69e8a4e886eec528e0d68e230f0d4"
   },
   {
     "file": "indexShare.html",
@@ -36,24 +36,24 @@
     "hash": "09c51899fb16a62ab6cbfe056c004cb4"
   },
   {
-    "file": "images/loading.gif",
-    "hash": "6783fbc30fc032c1f8fb52bc46b3ae3b"
-  },
-  {
     "file": "images/menu-cash.png",
     "hash": "2e21206a28d73d2e42860e09e38d526c"
+  },
+  {
+    "file": "images/loading.gif",
+    "hash": "6783fbc30fc032c1f8fb52bc46b3ae3b"
   },
   {
     "file": "images/menu-daily.png",
     "hash": "07b7bfe73462d2d06eb747aabaaa8fdc"
   },
   {
-    "file": "images/menu-detail.png",
-    "hash": "8153d2eb69f0f8185abc84e432fa0f4d"
-  },
-  {
     "file": "images/menu-feiyong.png",
     "hash": "87f9f356741f198a7cde86b1d9d7d00e"
+  },
+  {
+    "file": "images/menu-detail.png",
+    "hash": "8153d2eb69f0f8185abc84e432fa0f4d"
   },
   {
     "file": "images/menu-feiyongqushi.png",
@@ -92,12 +92,12 @@
     "hash": "f893d8b59275a57cee2f06f0bd17a4ee"
   },
   {
-    "file": "images/sprite.png",
-    "hash": "2591cf175b21ef1cccb046458561e58e"
-  },
-  {
     "file": "images/thumbup.png",
     "hash": "7f8c2c3a701a03decd3f0b9b1d901976"
+  },
+  {
+    "file": "images/sprite.png",
+    "hash": "2591cf175b21ef1cccb046458561e58e"
   },
   {
     "file": "images/zhangbiao-bg@1x.png",
@@ -172,12 +172,12 @@
     "hash": "e13bcf497fdd0be49aee1bc401c7b635"
   },
   {
-    "file": "lib/plugins/cordova-hot-code-push-plugin/www/chcp.js",
-    "hash": "e6df25381632052165d3e9f73640a2f8"
-  },
-  {
     "file": "lib/plugins/cordova-plugin-whitelist/whitelist.js",
     "hash": "7cf3ea81b3fb3eb1b057de61e2c39f78"
+  },
+  {
+    "file": "lib/plugins/cordova-hot-code-push-plugin/www/chcp.js",
+    "hash": "e6df25381632052165d3e9f73640a2f8"
   },
   {
     "file": "lib/plugins/cordova-plugin-console/www/console-via-logger.js",
