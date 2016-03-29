@@ -9,6 +9,10 @@
   },
   {
     "file": "index.html",
+    "hash": "8de69e8a4e886eec528e0d68e230f0d4"
+  },
+  {
+    "file": "index1.html",
     "hash": "3b550897189411cf7b69adbb8a212372"
   },
   {
@@ -164,16 +168,16 @@
     "hash": "26f10c5eeb0ae887370c7d55856f0be5"
   },
   {
-    "file": "lib/plugins/cordova-plugin-whitelist/whitelist.js",
-    "hash": "7cf3ea81b3fb3eb1b057de61e2c39f78"
-  },
-  {
     "file": "lib/plugins/cordova-hot-code-push-local-dev-addon/www/chcpLocalDev.js",
     "hash": "e13bcf497fdd0be49aee1bc401c7b635"
   },
   {
     "file": "lib/plugins/cordova-hot-code-push-plugin/www/chcp.js",
     "hash": "e6df25381632052165d3e9f73640a2f8"
+  },
+  {
+    "file": "lib/plugins/cordova-plugin-whitelist/whitelist.js",
+    "hash": "7cf3ea81b3fb3eb1b057de61e2c39f78"
   },
   {
     "file": "lib/plugins/cordova-plugin-console/www/console-via-logger.js",
